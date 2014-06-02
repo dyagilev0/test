@@ -458,6 +458,7 @@
 				8CD97ADA193C518C00AFCA5C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CD97ADB193C518C00AFCA5C /* Build configuration list for PBXNativeTarget "TestTests" */ = {
 			isa = XCConfigurationList;
@@ -466,6 +467,7 @@
 				8CD97ADD193C518C00AFCA5C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
