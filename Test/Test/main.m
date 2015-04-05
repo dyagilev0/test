@@ -10,6 +10,7 @@
 
 #import "AppDelegate.h"
 
+//test conflict merge
 int main(int argc, char * argv[])
 {
 	@autoreleasepool {
